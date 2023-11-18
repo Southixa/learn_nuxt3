@@ -1,5 +1,5 @@
 <template>
     <div>
-        Account
+        Cart id =>> {{ $route.params.id }}
     </div>
 </template>
